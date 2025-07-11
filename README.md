@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a10d0204a0f00843b32db18408919d4e65b66fcff54f8d13b4ef5085359fa56c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3049796f793556676c5236514b4a69772f67697068792e676966" alt="header" style="width: 100%; height: auto; max-height: 100px; display: inline-block;" />
+  <img src="https://camo.githubusercontent.com/a10d0204a0f00843b32db18408919d4e65b66fcff54f8d13b4ef5085359fa56c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3049796f793556676c5236514b4a69772f67697068792e676966" alt="header" style="width: 100%; height: 100px; display: inline-block;" />
 </p>
 
 <h1 align="center">Hi, I'm Hamza Javed 👋</h1>
